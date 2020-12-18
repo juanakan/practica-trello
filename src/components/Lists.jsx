@@ -14,11 +14,12 @@ function Lists (props) {
                 }} icon="trash" />
                 </div>
                 <FormCard/>
-                </div>})
+            </div>})
 
     return(
         <div className="container">{listItems}</div>
     )
     
 }
+
 export default Lists;

@@ -11,6 +11,7 @@
     border-radius: 0.3em;
     font-size: 16px;
 }
+
 .tituloLista{
     border-radius: 0.3em;
     padding-left: 0.5em;
@@ -21,16 +22,19 @@
     background-color:  #28003d;
 
 }
+
 h3{
     word-wrap: break-word;
     overflow: auto;
     color: white;
 }
+
 .faicons{
     opacity: 0.2;
     color: white;
     cursor: pointer;
 }
+
 .faicons:hover{
     opacity: 1;
 }
