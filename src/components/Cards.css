@@ -1,0 +1,27 @@
+.faiconsCard{
+    opacity: 0.2;
+    color: black;
+    cursor: pointer;
+    
+}
+
+.faiconsCard:hover{
+    opacity: 1;
+}
+
+.card{
+    border-radius: 0.3em;
+    margin-bottom: 0.5em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+p{
+    word-wrap: break-word;
+    overflow: auto;
+}
+

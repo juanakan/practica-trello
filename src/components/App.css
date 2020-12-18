@@ -1,0 +1,48 @@
+body{
+  background-color: #8527B7;
+}
+
+header{
+  background-color: #691F91;
+  padding: 1em;
+}
+
+.nombreApp{
+  text-align: center;
+  color: white;
+}
+
+.formularioLista{
+  text-align: center;
+}
+
+.formularioLista input{
+  background-color: #e0bff1;
+  border: none;
+  color: black;
+  width: 15em;
+  height: 2em;
+  border-radius: 0.3em;
+  margin: 0.5em;
+  font-size: large;
+}
+
+.formularioLista button{
+  background-color:#7f3f9e;
+  cursor: pointer;
+  border: none;
+  color: black;
+  width: 8em;
+  height: 2em;
+  border-radius: 0.3em;
+  font-size: large;
+
+}
+
+.formularioLista button:hover{
+  background-color: #b07bca;
+}
+::placeholder{
+  color:blue;
+}
+

@@ -1,0 +1,33 @@
+.formularioTarjeta{
+  text-align: center;
+}
+
+.formularioTarjeta input{
+  background-color:  #e0bff1;
+  width: 97%;
+  height: 2em;
+  margin-bottom: 0.3em;
+  border-radius: 0.3em;
+  font-size: large;
+}
+
+.formularioTarjeta button{
+  background-color:#7f3f9e;
+  cursor: pointer;
+  border: none;
+  color: black;
+  width: 9em;
+  height: 2em;
+  border-radius: 0.3em;
+  font-size: large;
+}
+
+.formularioTarjeta button:hover{
+  background-color: #b07bca;
+
+}
+
+.tarjetas{
+   margin: 0.5em;
+
+}
