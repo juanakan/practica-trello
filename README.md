@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Practia Fruteria GeeksHubs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Contenidos
 
-## Available Scripts
+1. [Objetivo](#id1)  
+2. [Tecnologias](#id2)  
+3. [Conclusiones](#id3)  
+4. [Pagina Web](#id4)  
 
-In the project directory, you can run:
 
-### `npm start`
+## Objetivo <a name="id1"></a>
+El objetivo de la práctica, es crear una web que simule una frutería, en la que arrastrando las frutas al carrito de la compra podremos ir sumando los precios de cada fruta y su precio total.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tecnologias <a name="id2"></a>
+Para esta página hemos usado Grid, para crear el cuadro de las frutas y la zona del carrito.  
+Con Grid vamos a posicionar cada cosa en el sitio correspondiente.  
+Hemos usado Drag and Drop, para arrastrar las frutas al carrito y así ir sumando los precios.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Conclusiones <a name="id3"></a>
+Para poder arrastrar las frutas, he tenido que poner un id diferente a cada fruta y ha sido un trabajo muy tedioso, al igual que en el Drag and Drop, ya que tenia que hacer uno por cada id, seguro que hay una manera más fácil de hacerlo para no escribir tanto código, por lo demás creo que me ha salido una página simple, pero que cumple perfectamente el cometido.   
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Pagina Web <a name="id4"></a>
+Para crear la web he usado GitHub Pages donde podremos comprobar el funcionamiento de la página.  
+[Enlace Pagina Web Fruteria](https://juanakan.github.io/Supermercado/)
