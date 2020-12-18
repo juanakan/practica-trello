@@ -2,7 +2,6 @@
     opacity: 0.2;
     color: black;
     cursor: pointer;
-    
 }
 
 .faiconsCard:hover{
@@ -20,8 +19,8 @@
     align-items: center;
     background-color: white;
 }
+
 p{
     word-wrap: break-word;
     overflow: auto;
 }
-
