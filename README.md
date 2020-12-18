@@ -20,4 +20,4 @@ Me ha resultado un poco complicado comprender como se pasaban los parámetros en
 
 ## Pagina Web <a name="id4"></a>
 Para crear la web he usado GitHub Pages donde podremos comprobar el funcionamiento de la página.  
-[Enlace Pagina Web Fruteria](https://juanakan.github.io/Supermercado/)
+[Enlace Pagina Web Trello](https://juanakan.github.io/practica-trello/)
