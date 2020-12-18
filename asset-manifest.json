@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practica-trello/static/css/main.c4b0e26f.chunk.css",
+    "main.js": "/practica-trello/static/js/main.cd36b5c7.chunk.js",
+    "main.js.map": "/practica-trello/static/js/main.cd36b5c7.chunk.js.map",
+    "runtime-main.js": "/practica-trello/static/js/runtime-main.4265d6eb.js",
+    "runtime-main.js.map": "/practica-trello/static/js/runtime-main.4265d6eb.js.map",
+    "static/js/2.841db8f6.chunk.js": "/practica-trello/static/js/2.841db8f6.chunk.js",
+    "static/js/2.841db8f6.chunk.js.map": "/practica-trello/static/js/2.841db8f6.chunk.js.map",
+    "static/js/3.06e002ac.chunk.js": "/practica-trello/static/js/3.06e002ac.chunk.js",
+    "static/js/3.06e002ac.chunk.js.map": "/practica-trello/static/js/3.06e002ac.chunk.js.map",
+    "index.html": "/practica-trello/index.html",
+    "static/css/main.c4b0e26f.chunk.css.map": "/practica-trello/static/css/main.c4b0e26f.chunk.css.map",
+    "static/js/2.841db8f6.chunk.js.LICENSE.txt": "/practica-trello/static/js/2.841db8f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4265d6eb.js",
+    "static/js/2.841db8f6.chunk.js",
+    "static/css/main.c4b0e26f.chunk.css",
+    "static/js/main.cd36b5c7.chunk.js"
+  ]
+}
