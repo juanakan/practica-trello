@@ -55,7 +55,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>
-          <h1 className="nombreApp">Practica Juan Antonio Roldan Paco</h1>
+          <h1 className="nombreApp">Practica Juan Antonio Roldan</h1>
           <h1 className="nombreApp">Clon Trello</h1>
           <form className ="formularioLista" onSubmit={this.addItem}>
             <input type="text" placeholder="enter text"

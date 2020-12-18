@@ -42,6 +42,7 @@ header{
 .formularioLista button:hover{
   background-color: #b07bca;
 }
+
 ::placeholder{
   color:blue;
 }
